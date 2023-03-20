@@ -16,5 +16,5 @@ print(text + " " + text1 + " ")
 text2 = "{} berumur {} tahun sebagai {}"
 print(text2.format(text,umur,text1))
 
-print("tahun" in text2)
-print("Umur" in text2)
+print("tahun" in text2) #Mecari tahun dalam text2
+print("Umur" in text2) #Mecari Umur dalam text2
