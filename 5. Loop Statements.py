@@ -21,5 +21,5 @@ angka = 0
 while(angka < 50):
     print("Angka yang muncul: "+ str(angka))
     angka += 10
-    
+print("Angka sudah berhenti!")
     
