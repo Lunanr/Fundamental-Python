@@ -16,8 +16,11 @@ class x:
         self.pekerjaan = pekerjaan
 
 p1 = x("Lunan", 32, "Data Science")
+p3 = x("Abiyyu", 15, "Pelajar")
 
 print(p1.name)
 print(p1.age)
 print(p1.pekerjaan)
-    
+print(p3.name)
+print(p3.age)
+print(p3.pekerjaan)    
